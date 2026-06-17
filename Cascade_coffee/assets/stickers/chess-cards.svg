@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Chess and cards sticker">
+  <defs>
+    <style>
+      .card{fill:#fff7ea;stroke:#211713;stroke-width:6;stroke-linejoin:round}
+      .red{fill:#d65d38}
+      .dark{fill:#211713}
+      .piece{fill:#4b2f24;stroke:#211713;stroke-width:6;stroke-linejoin:round}
+      .gold{fill:#efb45d;stroke:#211713;stroke-width:5}
+    </style>
+  </defs>
+  <path class="card" d="M37 24h56l15 84H52z" transform="rotate(-9 72 66)"/>
+  <path class="card" d="M69 28h56v84H69z" transform="rotate(10 97 70)"/>
+  <path class="red" d="M57 53c8-12 24 0 10 14L55 79 43 67c-14-14 3-26 14-14z"/>
+  <path class="dark" d="M103 56l12 18H91z"/>
+  <path class="piece" d="M62 132h58l-8-18H70z"/>
+  <path class="piece" d="M77 114h28l5-36H72z"/>
+  <circle class="gold" cx="91" cy="66" r="16"/>
+  <path class="dark" d="M88 47h6v16h-6z"/>
+</svg>

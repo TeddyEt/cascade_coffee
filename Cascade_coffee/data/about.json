@@ -1,0 +1,21 @@
+{
+    "description": "Welcome to Cascade Coffee. We are dedicated to serving the finest coffee and food in a warm, welcoming atmosphere.",
+    "images": [],
+    "socials": [
+        {
+            "id": "social_6a32f76397add2.65714569",
+            "name": "Facebook",
+            "url": "https://facebook.com"
+        },
+        {
+            "id": "social_6a32f763980e93.35024786",
+            "name": "Instagram",
+            "url": "https://instagram.com"
+        },
+        {
+            "id": "social_6a32f763980fe7.42767156",
+            "name": "Twitter",
+            "url": "https://twitter.com"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Old fashioned phone sticker">
+  <defs>
+    <style>
+      .phone{fill:#2f7966;stroke:#211713;stroke-width:6;stroke-linejoin:round}
+      .cream{fill:#fff7ea;stroke:#211713;stroke-width:6}
+      .cord{fill:none;stroke:#211713;stroke-width:6;stroke-linecap:round}
+      .gold{fill:#efb45d}
+    </style>
+  </defs>
+  <path class="cord" d="M126 120c21 9 19 29 3 30-18 2-13-22 4-15"/>
+  <path class="phone" d="M31 71h98l15 57H16z"/>
+  <path class="phone" d="M33 39c18-18 76-18 94 0l-10 25H43z"/>
+  <circle class="cream" cx="80" cy="98" r="31"/>
+  <circle class="phone" cx="80" cy="98" r="10"/>
+  <circle class="gold" cx="61" cy="85" r="5"/>
+  <circle class="gold" cx="80" cy="80" r="5"/>
+  <circle class="gold" cx="99" cy="85" r="5"/>
+  <circle class="gold" cx="61" cy="111" r="5"/>
+  <circle class="gold" cx="99" cy="111" r="5"/>
+</svg>

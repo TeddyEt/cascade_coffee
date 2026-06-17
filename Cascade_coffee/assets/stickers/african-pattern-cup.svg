@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="African pattern coffee cup sticker">
+  <defs>
+    <style>
+      .paper{fill:#fff7ea;stroke:#261712;stroke-width:6;stroke-linejoin:round}
+      .cup{fill:#d65d38;stroke:#261712;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+      .gold{fill:#efb45d}
+      .green{fill:#1f7a5c}
+      .dark{fill:#261712}
+      .steam{fill:none;stroke:#261712;stroke-width:6;stroke-linecap:round}
+    </style>
+  </defs>
+  <path class="paper" d="M18 54h124l-11 83H29z"/>
+  <path class="steam" d="M58 38c-12-12 12-17 0-29M82 38c-12-12 12-17 0-29M106 38c-12-12 12-17 0-29"/>
+  <path class="cup" d="M35 59h81l-8 60H43z"/>
+  <path class="cup" d="M116 71h14c11 0 17 8 14 18-3 9-11 14-25 14"/>
+  <path class="gold" d="M41 76h68v12H41z"/>
+  <path class="green" d="M45 96h58v13H45z"/>
+  <path class="dark" d="M48 76l8 12 8-12 8 12 8-12 8 12 8-12 8 12v8l-8-12-8 12-8-12-8 12-8-12-8 12-8-12z"/>
+</svg>

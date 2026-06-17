@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Cascade Coffee logo</title>
+  <desc id="desc">Transparent white line-art logo showing a steaming coffee cup above the words Cascade Coffee.</desc>
+  <defs>
+    <style>
+      .mark {
+        fill: none;
+        stroke: #ffffff;
+        stroke-width: 24;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .word {
+        fill: #ffffff;
+        font-family: "Arial Narrow", "Roboto Condensed", "Montserrat", Arial, sans-serif;
+        font-weight: 900;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <g>
+    <path class="mark" d="M174 177h-79v101h117" />
+    <path class="mark" d="M466 177h79v101h-117" />
+    <path class="mark" d="M222 144h196v84c0 52-42 94-94 94h-8c-52 0-94-42-94-94z" />
+    <path class="mark" d="M418 174h40c30 0 54 24 54 54s-24 54-54 54h-36" />
+    <path class="mark" d="M270 119c-18-20-17-45 5-69" />
+    <path class="mark" d="M320 119c-18-20-17-45 5-69" />
+    <path class="mark" d="M370 119c-18-20-17-45 5-69" />
+
+    <path class="mark" d="M66 292h508v190h-508z" />
+    <path class="mark" d="M103 482v77h163" />
+    <path class="mark" d="M537 482v77h-163" />
+    <path class="mark" d="M167 528h97" />
+    <path class="mark" d="M376 528h97" />
+    <path class="mark" d="M268 482v83" />
+    <path class="mark" d="M306 482v125" />
+    <path class="mark" d="M344 482v125" />
+    <path class="mark" d="M382 482v83" />
+  </g>
+
+  <text class="word" x="320" y="397" font-size="86" letter-spacing="5">CASCADE</text>
+  <text class="word" x="320" y="458" font-size="48" letter-spacing="12">COFFEE</text>
+</svg>

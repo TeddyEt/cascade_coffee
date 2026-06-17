@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Vintage camera sticker">
+  <defs>
+    <style>
+      .body{fill:#f2b15f;stroke:#211713;stroke-width:6;stroke-linejoin:round}
+      .top{fill:#2e2a25;stroke:#211713;stroke-width:6;stroke-linejoin:round}
+      .lens{fill:#fff7ea;stroke:#211713;stroke-width:6}
+      .glass{fill:#6aa6a2}
+      .strap{fill:none;stroke:#211713;stroke-width:6;stroke-linecap:round}
+    </style>
+  </defs>
+  <path class="strap" d="M23 56c18-28 96-28 114 0"/>
+  <path class="body" d="M22 52h116v78H22z"/>
+  <path class="top" d="M43 35h34l8 17H35z"/>
+  <path class="top" d="M98 39h25v13H98z"/>
+  <circle class="lens" cx="80" cy="91" r="33"/>
+  <circle class="glass" cx="80" cy="91" r="20"/>
+  <circle class="lens" cx="35" cy="66" r="7"/>
+  <path class="top" d="M22 52h116v20H22z"/>
+</svg>

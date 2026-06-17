@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Coffee beans sticker">
+  <defs>
+    <style>
+      .outline{fill:#fff7ea;stroke:#2a1711;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+      .bean{fill:#8d3f2b;stroke:#2a1711;stroke-width:5}
+      .line{fill:none;stroke:#fff1d1;stroke-width:5;stroke-linecap:round}
+      .accent{fill:#efb45d}
+    </style>
+  </defs>
+  <path class="outline" d="M20 50c16-31 55-42 86-27 36 17 47 65 23 96-23 30-72 32-99 5-20-20-23-49-10-74z"/>
+  <ellipse class="bean" cx="57" cy="73" rx="27" ry="38" transform="rotate(27 57 73)"/>
+  <path class="line" d="M49 43c17 21-15 40 9 61"/>
+  <ellipse class="bean" cx="104" cy="86" rx="26" ry="39" transform="rotate(-24 104 86)"/>
+  <path class="line" d="M111 54c-18 23 12 39-10 64"/>
+  <circle class="accent" cx="120" cy="35" r="9"/>
+  <circle class="accent" cx="32" cy="119" r="7"/>
+</svg>
